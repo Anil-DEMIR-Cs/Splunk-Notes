@@ -17,3 +17,7 @@ Fields:
     host = for domain name of a server
     From = will contain only a single email adress
     To and cc fields = have one or more email adresses associated with them
+
+    field_name = field_value
+
+    sourcetype=access_*
