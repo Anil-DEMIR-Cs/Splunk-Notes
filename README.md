@@ -10,3 +10,6 @@ Splunk has 4 segments
 3) Indexing
 4) Search
 
+1- Input: Splunk accepts many source of data. e.g:
+ - File monitor inputs
+ - 
