@@ -14,3 +14,5 @@ Splunk has 4 segments
  - File monitor inputs
  - Winevent monitor inputs
  - TCP / UDP inputs
+ - HEC inputs
+ - Scripted inputs
