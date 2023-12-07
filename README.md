@@ -16,3 +16,5 @@ Splunk has 4 segments
  - TCP / UDP inputs
  - HEC inputs
  - Scripted inputs
+
+File monitor inputs: It will monitor particular file. Once new lines are written down to this file, it will start reading and forward it further.
