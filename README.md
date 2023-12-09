@@ -17,4 +17,6 @@ Splunk has 4 segments
  - HEC inputs
  - Scripted inputs
 
-File monitor inputs: It will monitor particular file. Once new lines are written down to this file, it will start reading and forward it further.
+File Monitor Inputs: It will monitor particular file. Once new lines are written down to this file, it will start reading and forward it further.
+
+Winevent Monitor Inputs: Windows event monitor inputs. It will monitoring Windows events.
