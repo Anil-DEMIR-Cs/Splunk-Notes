@@ -20,3 +20,5 @@ Splunk has 4 segments
 File Monitor Inputs: It will monitor particular file. Once new lines are written down to this file, it will start reading and forward it further.
 
 Winevent Monitor Inputs: Windows event monitor inputs. It will monitoring Windows events.
+
+TCP/UDP Inputs: If any data seen over TCP and UDP it will listen, read, and forward it further.
