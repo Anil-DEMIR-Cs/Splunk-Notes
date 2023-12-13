@@ -22,3 +22,10 @@ File Monitor Inputs: It will monitor particular file. Once new lines are written
 Winevent Monitor Inputs: Windows event monitor inputs. It will monitoring Windows events.
 
 TCP/UDP Inputs: If any data seen over TCP and UDP it will listen, read, and forward it further.
+
+
+*** We can use Splunk with other tools
+- For Web Traffic we can use ZSCALER
+- For Firewall we can use PALOALTO NETWORKS
+- For Device Monitoring we can use CROWDSTRIKE
+- For User Activity we can use SPLUNK
