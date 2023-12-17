@@ -23,6 +23,8 @@ Winevent Monitor Inputs: Windows event monitor inputs. It will monitoring Window
 
 TCP/UDP Inputs: If any data seen over TCP and UDP it will listen, read, and forward it further.
 
+HEC Inputs: HTTP Event Collector, which lists on HTTP responses and then forward it further.
+
 
 *** We can use Splunk with other tools
 - For Web Traffic we can use ZSCALER
