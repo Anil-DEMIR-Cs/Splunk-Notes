@@ -25,6 +25,8 @@ TCP/UDP Inputs: If any data seen over TCP and UDP it will listen, read, and forw
 
 HEC Inputs: HTTP Event Collector, which lists on HTTP responses and then forward it further.
 
+Scripted Inputs: It will execute particular script whatever will be the result of it, it will send it further.
+
 
 *** We can use Splunk with other tools
 - For Web Traffic we can use ZSCALER
