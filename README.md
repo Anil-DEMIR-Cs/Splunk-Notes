@@ -27,6 +27,7 @@ HEC Inputs: HTTP Event Collector, which lists on HTTP responses and then forward
 
 Scripted Inputs: It will execute particular script whatever will be the result of it, it will send it further.
 
+*** There are event genarator tools outthere for practising splunk
 
 *** We can use Splunk with other tools
 - For Web Traffic we can use ZSCALER
