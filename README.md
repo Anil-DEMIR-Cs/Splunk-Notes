@@ -27,6 +27,8 @@ HEC Inputs: HTTP Event Collector, which lists on HTTP responses and then forward
 
 Scripted Inputs: It will execute particular script whatever will be the result of it, it will send it further.
 
+2- Parsing: Splunk Software breaks the data stream into individual events.
+
 *** There are event genarator tools outthere for practising splunk
 
 *** We can use Splunk with other tools
